@@ -57,7 +57,7 @@ var Trianglify = require('trianglify'); // only needed in node.js
 var pattern = Trianglify({width: 200, height: 200})
 ```
 
-The pattern object contains data about the generated pattern's options and geometry, as well as rending implementations.
+The pattern object contains data about the generated pattern's options and geometry, as well as rendering implementations.
 
 ### pattern.opts
 
